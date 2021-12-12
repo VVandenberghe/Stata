@@ -8,7 +8,7 @@
 * indroduction of survival up to retirement S(ra) dummy
 * use averages (overall, by SES cat) to differentiate
 
-*Last update : Nov 2021
+*Last update : Dec 2021
 
 *actual  retirement age= [alpha] *considered age of death
 
